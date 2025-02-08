@@ -1,10 +1,6 @@
 # Git
 Git - Working with Git
 
-Here's a well-structured **README** file for your Git repository. It highlights the purpose of the repo, provides an overview of the included notebooks, and gives users clear instructions on how to use them.
-
----
-
 ### 📌 **Git Basics & Workflows**
 **A Practical Guide to Using Git Efficiently**  
 
