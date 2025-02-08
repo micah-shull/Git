@@ -1,6 +1,3 @@
-# Git
-Git - Working with Git
-
 ### 📌 **Git Basics & Workflows**
 **A Practical Guide to Using Git Efficiently**  
 
